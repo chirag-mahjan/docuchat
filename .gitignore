@@ -1,0 +1,29 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+.coverage
+htmlcov/
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+
+# Secrets / local env
+.env
+
+# Runtime uploads
+backend/uploads/
+
+# Editor / OS / logs
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+*.local
